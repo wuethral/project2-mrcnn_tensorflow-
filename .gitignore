@@ -1,0 +1,9 @@
+.idea/
+DataSet/
+mrcnn/
+testing_images/
+trained_model/
+venv/
+venv_2/
+requirements.txt
+mask-rcnn-coco.h5
